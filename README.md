@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&center=true&vCenter=true&width=1000&color=52F736&lines=Prazer%2C+sou+Diogo.)](https://git.io/typing-svg)
 
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=52F736&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diogosousa35&theme=dark)
