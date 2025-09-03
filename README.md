@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000088&height=120&section=header"/>
 
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&center=true&vCenter=true&width=1000&color=52F736&lines=Prazer%2C+sou+Diogo.)](https://git.io/typing-svg)
 
 
@@ -27,7 +28,11 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
-###
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000088&height=120&section=footer"/>
 
 
 
