@@ -4,10 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&center=true&vCenter=true&width=1000&color=52F736&lines=Prazer%2C+sou+Diogo.)](https://git.io/typing-svg)
 
 
-<h1 align="center">Aoba, me chamo Diogo!</h1>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
