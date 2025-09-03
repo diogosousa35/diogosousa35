@@ -20,7 +20,6 @@
 </div>
 
 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diogosousa35&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diogosousa35&theme=dark)
 
